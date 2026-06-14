@@ -126,7 +126,7 @@ The solution helps reduce manual reporting efforts while improving visibility in
 
 ### Sales Analysis Dashboard
 
-()
+(dashboard.png)
 
 ---
 
