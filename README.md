@@ -73,33 +73,6 @@ This dashboard was developed to transform raw sales data into meaningful busines
 * Data Modeling
 * Data Visualization
 
----
-##DAX Measures Used
-
-The dashboard uses DAX (Data Analysis Expressions) to create business KPIs and performance metrics.
-
-KPI Measures
-Total Revenue
-Total Profit
-Profit Margin %
-Total Transactions
-Total Returns
-Return Rate %
-Analytical Measures
-Revenue Target
-Revenue Variance
-Revenue Growth %
-Transactions by Weekday
-Regional Sales Contribution %
-DAX Concepts Applied
-CALCULATE()
-FILTER()
-ALL()
-SUMX()
-DIVIDE()
-RELATED()
-SWITCH()
-
 --
 
 ##Project Workflow
