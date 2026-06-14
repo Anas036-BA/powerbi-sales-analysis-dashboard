@@ -75,7 +75,8 @@ This dashboard was developed to transform raw sales data into meaningful busines
 
 ---
 
-## Project Workflow
+Project Workflow
+
 
 Raw Data
    ↓
@@ -90,7 +91,7 @@ DAX Measures
 Interactive Dashboard
    ↓
 Business Insights
-```
+
 
 ### Development Process
 
