@@ -75,6 +75,35 @@ This dashboard was developed to transform raw sales data into meaningful busines
 
 ---
 
+## Project Workflow
+
+```text
+Raw Data
+   ↓
+Power Query
+   ↓
+Data Cleaning & Transformation
+   ↓
+Data Modeling
+   ↓
+DAX Measures
+   ↓
+Interactive Dashboard
+   ↓
+Business Insights
+```
+
+### Development Process
+
+1. Imported and explored the sales dataset.
+2. Performed data cleaning and transformation using Power Query.
+3. Built relationships between tables using data modeling techniques.
+4. Created DAX measures to calculate business KPIs.
+5. Designed interactive visuals and filters.
+6. Developed an executive-level dashboard for performance monitoring.
+7. Generated actionable business insights through data analysis.
+
+
 ## Skills Demonstrated
 
 ### Power BI
