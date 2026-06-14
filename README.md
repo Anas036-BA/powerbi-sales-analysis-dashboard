@@ -77,7 +77,6 @@ This dashboard was developed to transform raw sales data into meaningful busines
 
 ## Project Workflow
 
-```text
 Raw Data
    ↓
 Power Query
